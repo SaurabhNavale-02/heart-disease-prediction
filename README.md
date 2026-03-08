@@ -1,5 +1,10 @@
 Project Title:>> Heart Disease Prediction using Machine Learning
 
+Live Demo:
+https://heart-disease-prediction-ns3gln3vmw68jzgeft5gxs.streamlit.app
+
+GitHub Repository: 
+https://github.com/SaurabhNavale-02/Heart-Disease-Prediction
 
 
 >> Overview
